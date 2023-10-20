@@ -21,7 +21,8 @@ SpaceX, a leader in the space industry, strives to make space travel affordable 
 - [`notebooks/`](notebooks/): Includes Python notebooks for data cleaning, exploratory data analysis (EDA), and machine learning models.
 - [`datasets/`](datasets/): Includes the datasets used and created for the project.
 - [`images/`](images/): Includes images used in the readme, such as the cover and visualizations.
-- [`presentation/`](presentation/): Includes the analisys presentation in PDF format and the dashboard.
+- [`dashboard/`](dashboard/): Includes a interactive PowerBI dashboard.
+- [`presentation/`](presentation/): Includes the analisys presentation in PDF format.
 
 ## Executive Summary
 
